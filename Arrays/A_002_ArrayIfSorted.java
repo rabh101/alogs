@@ -1,4 +1,4 @@
-public class ArrayIfSorted
+public class A_002_ArrayIfSorted
 {
     public static void main(String [] args)
     {

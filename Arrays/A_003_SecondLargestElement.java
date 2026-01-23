@@ -1,6 +1,6 @@
 
 //Time Complexity of Solution is O(n)
-class SecondLargestElement
+class A_003_SecondLargestElement
 {
     public  static void main(String [] args)
     {

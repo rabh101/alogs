@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IndexOfLargestElement {
+public class A_001_IndexOfLargestElement{
     public static void main(String[] args) {
         int[] array = { 10, 5, 20, 8 };
         int retValue = 0;
